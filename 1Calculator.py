@@ -30,3 +30,4 @@ while c == 0:
             s = 0
         else:
             print("Raspuns invalid. Te rog sa introduci 'Da' sau 'Nu'.")
+
